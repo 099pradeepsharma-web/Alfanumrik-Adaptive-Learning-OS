@@ -1,0 +1,7 @@
+{
+  "name": "Alfanumrik",
+  "description": "An adaptive learning platform for CBSE students (Grades VI-XII) designed to enhance conceptual understanding and exam readiness. It features AI-powered practice questions, detailed performance analytics, and engaging learning modules based on past board exam papers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
